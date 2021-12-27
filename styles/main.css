@@ -1702,7 +1702,7 @@ footer {
 .page-heading {
   margin-top: 81px;
   text-align: center;
-  background-image: url(http://placehold.it/1920x450);
+  background-image: url(https://via.placeholder.com/1920x450);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -5102,7 +5102,7 @@ https://una.im/CSSgram/
     font-weight: 700; }
 
 .services .first-item {
-  background-image: url(http://placehold.it/320x510);
+  background-image: url(https://via.placeholder.com/320x510);
   background-position: 350% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
@@ -5110,7 +5110,7 @@ https://una.im/CSSgram/
     background-position: 320% center; }
 
 .services .second-item {
-  background-image: url(http://placehold.it/320x510);
+  background-image: url(https://via.placeholder.com/320x510);
   background-position: 980% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
@@ -5118,7 +5118,7 @@ https://una.im/CSSgram/
     background-position: 900% center; }
 
 .services .third-item {
-  background-image: url(http://placehold.it/320x510);
+  background-image: url(https://via.placeholder.com/320x510);
   background-position: 170% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
@@ -5126,7 +5126,7 @@ https://una.im/CSSgram/
     background-position: 160% center; }
 
 .services .fourth-item {
-  background-image: url(http://placehold.it/320x510);
+  background-image: url(https://via.placeholder.com/320x510);
   background-position: -600% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
@@ -5134,7 +5134,7 @@ https://una.im/CSSgram/
     background-position: -550% center; }
 
 .services .fivth-item {
-  background-image: url(http://placehold.it/320x510);
+  background-image: url(https://via.placeholder.com/320x510);
   background-position: -150% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
@@ -5142,7 +5142,7 @@ https://una.im/CSSgram/
     background-position: -130% center; }
 
 .services .sixth-item {
-  background-image: url(http://placehold.it/320x510);
+  background-image: url(https://via.placeholder.com/320x510);
   background-position: -70% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
