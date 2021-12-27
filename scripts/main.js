@@ -83,9 +83,9 @@
   });
 
 
-  $(function() {
-      $( "#tabs" ).tabs();
-  });
+  // $(function() {
+  //     $( "#tabs" ).tabs();
+  // });
   
 
   $(window).on('scroll',function() {
