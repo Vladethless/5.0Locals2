@@ -1053,6 +1053,12 @@ img {
   font-weight: 700;
   margin-bottom: 10px; }
 
+.section-heading h1 {
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 10px; }
+
 .section-heading p {
   color: #7a7a7a; }
 
@@ -2310,8 +2316,8 @@ footer {
   text-align: center;
   border-bottom: 1px solid #eeeeee;
   padding-bottom: 100px; }
-  .text-cta h4 {
-    font-size: 20px;
+  .text-cta h2 {
+    font-size: 25px;
     text-transform: uppercase;
     font-weight: 700; }
   .text-cta p {
@@ -4420,7 +4426,7 @@ https://una.im/CSSgram/
 .why-choose-us.why-choose-us-third p.italic {
   font-size: 15px;
 
-  margin-bottom: 50px; }
+  margin-bottom: 20px; }
 
 .why-choose-us.why-choose-us-third ul.info {
   margin-bottom: 20px; }
@@ -4435,7 +4441,7 @@ https://una.im/CSSgram/
 
 .why-choose-us.why-choose-us-third .skill-item {
   margin-top: 30px; }
-  .why-choose-us.why-choose-us-third .skill-item h6 {
+  .why-choose-us.why-choose-us-third .skill-item h3 {
     font-size: 13px;
     font-weight: 700;
     color: #2c2c2c;
@@ -5097,7 +5103,7 @@ https://una.im/CSSgram/
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06); }
   .services .service-item .icon {
     margin-bottom: 40px; }
-  .services .service-item h4 {
+  .services .service-item h3 {
     font-size: 18px;
     font-weight: 700; }
 
@@ -5168,12 +5174,12 @@ https://una.im/CSSgram/
     float: left; }
     .second-services .service-item .icon img {
       max-width: 80%; }
-  .second-services .service-item h4 {
+  .second-services .service-item h3 {
     font-size: 18px;
     font-weight: 700;
     position: relative;
     margin-left: 70px; }
-    .second-services .service-item h4::after {
+    .second-services .service-item h3::after {
       width: 60px;
       height: 3px;
       background-color: #eeeeee;
@@ -5422,7 +5428,7 @@ https://una.im/CSSgram/
           background-color: #fff; }
         .simple-recent-projects.filter-projects .item .hover .inner-content .text-button a:hover {
           color: #f08923; }
-      .simple-recent-projects.filter-projects .item .down-content h4 {
+      .simple-recent-projects.filter-projects .item .down-content h3 {
         margin-top: 20px;
         font-size: 18px;
         font-weight: 700;
