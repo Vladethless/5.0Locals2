@@ -1708,7 +1708,7 @@ footer {
 .page-heading {
   margin-top: 81px;
   text-align: center;
-  background-image: url(./images/all_services.jpg);
+  background-image: url(../images/all_services.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
