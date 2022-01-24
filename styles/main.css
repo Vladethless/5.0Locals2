@@ -2396,6 +2396,7 @@ footer {
   .testimonials .owl-dots {
     margin-top: 50px;
     text-align: center; }
+
   .testimonials .owl-carousel button.owl-dot {
     width: 10px;
     height: 10px;
@@ -5508,6 +5509,17 @@ https://una.im/CSSgram/
 
 .project-details .left-content {
   margin-right: 45px; }
+  .left-content .sub{
+    font-size: 25px;
+  }
+  .left-content .sub:before {
+    font-size: 22px;
+    content: "\f00c";
+    color: #f08923;
+    display: inline-block;
+    width: 1.4em;
+    font-family: 'FontAwesome';
+}
   .project-details .left-content h4 {
     font-size: 24px;
     font-weight: 700;
