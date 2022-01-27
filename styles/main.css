@@ -5103,21 +5103,23 @@ https://una.im/CSSgram/
   border-radius: 3px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06); }
   .services .service-item .icon {
-    margin-bottom: 40px; }
+    margin-bottom: 40px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto; }
   .services .service-item h3 {
     font-size: 18px;
     font-weight: 700; }
 
 .services .first-item {
-  background-image: url(https://via.placeholder.com/320x510);
   background-position: 350% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
   .services .first-item:hover {
-    background-position: 320% center; }
+    background-position: 320% center;
+   }
 
 .services .second-item {
-  background-image: url(https://via.placeholder.com/320x510);
   background-position: 980% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
@@ -5125,7 +5127,6 @@ https://una.im/CSSgram/
     background-position: 900% center; }
 
 .services .third-item {
-  background-image: url(https://via.placeholder.com/320x510);
   background-position: 170% center;
   -webkit-transition: all .3s;
   transition: all .3s; }
@@ -5174,7 +5175,9 @@ https://una.im/CSSgram/
   .second-services .service-item .icon {
     float: left; }
     .second-services .service-item .icon img {
-      max-width: 80%; }
+      max-width: 25%;
+      margin-left: 70px;
+      margin-right: auto }
   .second-services .service-item h3 {
     font-size: 18px;
     font-weight: 700;
@@ -5238,8 +5241,8 @@ https://una.im/CSSgram/
     .contact-info .info-item .down-content {
       background-color: #fff;
       padding: 70px 30px 30px 30px; }
-      .contact-info .info-item .down-content h6 {
-        font-size: 14px;
+      .contact-info .info-item .down-content h2 {
+        font-size: 18px;
         font-weight: 600;
         color: #2c2c2c;
         line-height: 24px;
